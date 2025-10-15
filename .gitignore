@@ -1,0 +1,45 @@
+cat > .gitignore << 'EOF'
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+.venv/
+venv/
+ENV/
+env/
+.conda/
+
+# Distribución/paquetes
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Tests / coverage
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+coverage.xml
+htmlcov/
+
+# Tipado / linters
+.mypy_cache/
+.pytype/
+.pyre/
+
+# Entorno / secretos
+.env
+.env.*
+*.pem
+*.key
+
+# IDE/OS
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+EOF
