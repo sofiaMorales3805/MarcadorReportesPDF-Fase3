@@ -91,6 +91,13 @@ MarcadorReportesPDF/
 > `utils/pdf_utils.py` es opcional; ayuda a separar estilos y componentes de ReportLab si el proyecto crece.
 
 ---
+## Despliegue Contenedores
+
+Proceso de empaqueteado en contenedores para la implementación de la aplicación en la VPs, contenedores generados para la entrega del Proyecto Fase III.
+
+![Contenedores](https://github.com/user-attachments/assets/dba299e8-c22d-433b-b531-435ce8744e88)
+
+---
 
 ## Instalación y ejecución
 
