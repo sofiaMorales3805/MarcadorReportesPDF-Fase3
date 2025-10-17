@@ -156,6 +156,14 @@ SCOUTING_JUGADOR_PATH=/api/estadisticas/jugador/{id}
 
 <img width="1365" height="674" alt="image" src="https://github.com/user-attachments/assets/050fc95d-d8bc-4833-a11a-7356ec78c662" />
 
+**Gestión de Jugadores**
+
+<img width="1365" height="452" alt="image" src="https://github.com/user-attachments/assets/98b0a970-f47d-4707-b1c5-aad44fa2d046" />
+
+**Creación de Torneos**
+
+<img width="1365" height="537" alt="image" src="https://github.com/user-attachments/assets/091232a8-ae52-4538-a5a9-3cdfbc022f8a" />
+
 **Marcador Operador**
 
 <img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/fb8f964b-33f7-4074-b2bd-0dcfd799a0e9" />
@@ -169,10 +177,38 @@ SCOUTING_JUGADOR_PATH=/api/estadisticas/jugador/{id}
   
 <img width="893" height="673" alt="image" src="https://github.com/user-attachments/assets/821811aa-79ba-415c-8a17-f7d4e7b53e39" />
 
-- PDF Descargado
+- PDF Descargado Jugadores por Equipo
+
+<img width="852" height="517" alt="image" src="https://github.com/user-attachments/assets/e736d454-30ac-469c-adae-da742e9d2664" />
+
+- Equipos registrados
+
+<img width="446" height="311" alt="image" src="https://github.com/user-attachments/assets/8e92a10a-1436-4447-b87a-7dceb5837499" />
+
+- PDF Descargado Equipos registrados
   
 <img width="1003" height="547" alt="image" src="https://github.com/user-attachments/assets/f75b5ee8-73f9-458f-bbce-d9bcb4519733" />
- 
+
+- Estadisticas por jugador
+
+<img width="451" height="322" alt="image" src="https://github.com/user-attachments/assets/ab4b3499-32c8-4c69-b389-f64b3888ebd8" />
+
+- PDF Descargado Estadisticas por jugador
+
+<img width="904" height="373" alt="image" src="https://github.com/user-attachments/assets/416d0ee0-209f-41a9-b520-74bc42f79957" />
+
+- Roster por partidos
+
+<img width="456" height="323" alt="image" src="https://github.com/user-attachments/assets/40b6b632-6567-4ddc-98e5-6356f9c187c8" />
+
+- Historial de partidos
+
+<img width="452" height="264" alt="image" src="https://github.com/user-attachments/assets/b4f412ec-6b43-4176-940f-fb0d682c2e3c" />
+
+- PDF Descargado Historial de partidos
+
+<img width="791" height="519" alt="image" src="https://github.com/user-attachments/assets/262dc186-379b-48c5-b79e-68714f399f34" />
+
 ---
 
 ## Endpoints
