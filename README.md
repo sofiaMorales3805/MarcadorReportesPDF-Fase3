@@ -14,10 +14,11 @@ Microservicio para **generar reportes en PDF** (equipos, jugadores, historial, r
 ## Tabla de contenidos
 - [Repositorios](#repositorios)
 - [Arquitectura](#arquitectura)
-- [Requerimientos](#re**querimientos)
+- [Requerimientos](#requerimientos)
 - [Estructura del repo](#estructura-del-repo)
 - [Instalación y ejecución](#instalación-y-ejecución)
 - [Variables de entorno](#variables-de-entorno)
+- [Uso del app](#uso-del-app)
 - [Endpoints](#endpoints)
 - [Integración con Frontend (Angular)](#integración-con-frontend-angular)
 - [Integración con Backend (C#)](#integración-con-backend-c)
@@ -136,7 +137,42 @@ SCOUTING_JUGADOR_PATH=/api/estadisticas/jugador/{id}
 ```
 
 > `PARTIDO_ROSTER_PATH` y `SCOUTING_JUGADOR_PATH` aceptan `{id}`, que el servicio reemplaza por el valor de query.
+---
+## Uso del app
 
+**Login**
+
+<img width="579" height="514" alt="image" src="https://github.com/user-attachments/assets/12195808-efe9-4aed-8fee-37e5be3b29c8" />
+
+**Creación de usuario**
+
+<img width="458" height="446" alt="image" src="https://github.com/user-attachments/assets/2d8570a8-a9a0-410f-8494-c2fac66d3b6b" />
+
+**Dashboard (Panel administración)**
+
+<img width="1365" height="598" alt="image" src="https://github.com/user-attachments/assets/b792b45a-b862-42a4-a019-aff860bed9d4" />
+
+**Gestión de Equipos**
+
+<img width="1365" height="674" alt="image" src="https://github.com/user-attachments/assets/050fc95d-d8bc-4833-a11a-7356ec78c662" />
+
+**Marcador Operador**
+
+<img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/fb8f964b-33f7-4074-b2bd-0dcfd799a0e9" />
+
+**Marcador Público**
+
+<img width="1365" height="684" alt="image" src="https://github.com/user-attachments/assets/56f82e95-3a12-41b6-b75d-cb97d9d0de8a" />
+
+**Reportes**
+- Jugadores por Equipo
+  
+<img width="893" height="673" alt="image" src="https://github.com/user-attachments/assets/821811aa-79ba-415c-8a17-f7d4e7b53e39" />
+
+- PDF Descargado
+  
+<img width="1003" height="547" alt="image" src="https://github.com/user-attachments/assets/f75b5ee8-73f9-458f-bbce-d9bcb4519733" />
+ 
 ---
 
 ## Endpoints
