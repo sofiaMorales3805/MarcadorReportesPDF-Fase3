@@ -7,6 +7,8 @@ Microservicio para **generar reportes en PDF** (equipos, jugadores, historial, r
 
 **Dominio registrado** basketmarcador.online
 
+**Llave** ssh -i ~/.ssh/id_ed25519 melgust@91.99.197.226 
+
 **IP Pública** 91.99.197.226
 
 ---
